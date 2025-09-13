@@ -21,17 +21,6 @@ A modern, responsive portfolio website showcasing my skills, experience, and pro
 - **JavaScript**: Interactive elements and animations
 - **GitHub Pages**: Deployment platform
 
-## 📁 Project Structure
-portfolio-website/
-├── index.html # Main HTML file
-├── styles.css # All CSS styles
-├── script.js # JavaScript functionality
-├── assets/ # Additional assets (images, icons)
-│ ├── images/
-│ └── icons/
-└── README.md # This file
-
-text
 
 ## 🎨 Design Elements
 
@@ -66,7 +55,7 @@ text
 - Safari (latest)
 - Edge (latest)
 
-## 🚀 Deployment
+## 🚀 Deployment [Yet to be done]
 
 This portfolio is deployed using GitHub Pages:
 
